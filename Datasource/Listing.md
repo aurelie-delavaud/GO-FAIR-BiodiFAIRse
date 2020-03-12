@@ -1,4 +1,4 @@
-# From PNDB first screening
+# From PNDB-FRB first screening
 ## Species / In-situ data
 * Using R for occurences data through the spocc package: https://github.com/ropensci/spocc
 * Using mapr to display species occurences https://github.com/ropensci/mapr
